@@ -1,0 +1,4 @@
+word = ""
+print("subscribe to " + wrod)
+print("subscribe to {}".format(word))
+print(f"subscribe to" {word})
